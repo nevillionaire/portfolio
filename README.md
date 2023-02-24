@@ -6,7 +6,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://nevillionaire.github.io)
+[Live Demo Link](https://nevillionaire.github.io/portfolio)
 
 
 ## Getting Started
