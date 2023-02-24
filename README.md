@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Portfolio
 
 > Description the project.
@@ -19,26 +17,11 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
 - GitHub: [@githubhandle](https://github.com/nevillionaire)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- Twitter: [@twitterhandle](https://twitter.com/nevillionaire)
 
 ## 🤝 Contributing
 
