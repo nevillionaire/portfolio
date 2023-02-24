@@ -15,8 +15,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-- GitHub: [@githubhandle](https://github.com/nevillionaire)
-- Twitter: [@twitterhandle](https://twitter.com/nevillionaire)
+- [@Github](https://github.com/nevillionaire)
+- [@Twitter](https://twitter.com/nevillionaire)
 
 ## 🤝 Contributing
 
