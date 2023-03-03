@@ -1,6 +1,6 @@
 # Portfolio
 
-> Description the project.
+> This project is a Portfolio giving an overview about what I do and different project I've worked on in the past or currently.
 
 
 
