@@ -11,7 +11,7 @@
 ## Authors
 
 - [@Github](https://github.com/nevillionaire)
-- [@Twitter](https://twitter.com/nevillionaire)
+- [@Twitter](https://x.com/Nickfuryous)
 
 ## 🤝 Contributing
 
