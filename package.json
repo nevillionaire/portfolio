@@ -2,8 +2,8 @@
   "devDependencies": {
     "@iconify-json/uil": "^1.2.3",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint": "^10.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
     "hint": "^2.0.0",
     "stylelint": "^15.10.3",
